@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "name": "A compléter"
+    },
+    {
+        "id": 2,
+        "name": "A dépublier"
+    },
+    {
+        "id": 3,
+        "name": "A mettre à jour"
+    },
+    {
+        "id": 4,
+        "name": "Corrigé"
+    },
+    {
+        "id": 5,
+        "name": "Dépublié"
+    },
+    {
+        "id": 6,
+        "name": "En préparation"
+    },
+    {
+        "id": 7,
+        "name": "Mis à jour"
+    },
+    {
+        "id": 8,
+        "name": "Publié"
+    },
+    {
+        "id": 9,
+        "name": "Transmis"
+    },
+    {
+        "id": 10,
+        "name": "Validé"
+    } 
+]
